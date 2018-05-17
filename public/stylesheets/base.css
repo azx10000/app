@@ -1,0 +1,17 @@
+/*公共样式*/
+.my-header{
+    background-color: #006699;
+}
+.my-header h1{
+    color: #FFF;
+}
+.my-header .mui-icon-search{
+    color: #FFF;
+}
+.my-footer{
+    background-color: #006699;
+}
+
+.my-footer span{
+    color: #FFF;
+}
